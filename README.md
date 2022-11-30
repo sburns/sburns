@@ -8,6 +8,7 @@ I'm married to [Elise][2] (who recently published her first book! 🎉) and toge
 
 Some of my current values:
 
+- Consistency > Intensity
 - Progress > Perfection
 - Explicit > Implicit
 - Systems > Goals
