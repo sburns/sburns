@@ -14,7 +14,7 @@ Some of my current values:
 - Systems > Goals
 
 <a href="https://mentorcruise.com/mentor/scottburns/">
-  <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
+  <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise">
 </a>
 
 [1]: https://www.bamboohr.com/
